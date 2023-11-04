@@ -1,6 +1,7 @@
 public class TestDelete {
     private String filename;
     private Integer filenum;
+    private Double sum;
 
     public String getFilename() {
         return filename;
