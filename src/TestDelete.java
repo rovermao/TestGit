@@ -1,7 +1,6 @@
 public class TestDelete {
     private String filename;
-    private Integer filenum;
-    private Double sum;
+
 
     public String getFilename() {
         return filename;
@@ -11,11 +10,4 @@ public class TestDelete {
         this.filename = filename;
     }
 
-    public Integer getFilenum() {
-        return filenum;
-    }
-
-    public void setFilenum(Integer filenum) {
-        this.filenum = filenum;
-    }
 }
